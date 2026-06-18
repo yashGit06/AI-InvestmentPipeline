@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing cache
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini

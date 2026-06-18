@@ -1,0 +1,530 @@
+{
+  "We built an open source, zero webhooks payment processor": {
+    "name": "Flowglad",
+    "website": "https://github.com/flowglad/flowglad",
+    "one_liner": "An open-source payment processor that simplifies online transactions.",
+    "team": {
+      "summary": "Not publicly available.",
+      "technical_depth": 3,
+      "prior_exit": false,
+      "founder_names": [
+        "Unknown"
+      ],
+      "data_quality": "low"
+    },
+    "product": {
+      "summary": "Flowglad provides a streamlined way to process payments online without the need for webhooks.",
+      "category": "B2B SaaS",
+      "workflow_automated": "Payment processing previously handled by manual methods or complex integrations.",
+      "ai_role": "Not specified in the provided data."
+    },
+    "market": {
+      "summary": "The payment processing market is evolving with a shift towards open-source solutions that reduce reliance on traditional payment gateways. This trend is driven by the need for lower fees and greater flexibility in payment systems.",
+      "tam_estimate": "Unknown",
+      "incumbents": [
+        "Stripe",
+        "PayPal"
+      ],
+      "why_now": "The rise of open-source software and increasing demand for customizable payment solutions make this an opportune time for innovation."
+    },
+    "risks": [
+      "Dependence on community contributions for ongoing development and support.",
+      "Potential regulatory challenges in different markets.",
+      "Competition from established players with robust infrastructures."
+    ],
+    "score": 58,
+    "score_breakdown": {
+      "team": 10,
+      "product": 15,
+      "market": 16,
+      "moat": 10,
+      "traction": 7
+    },
+    "recommendation": "Watch",
+    "rationale": "Flowglad presents an interesting approach to payment processing, especially with its open-source model. However, the lack of identifiable founders and clear AI integration limits its immediate appeal for investment.",
+    "mind_changers": [
+      "Strong community engagement through Discord.",
+      "Backed by Y Combinator, indicating potential for growth.",
+      "Focus on simplifying payment processes could attract small to medium-sized businesses."
+    ],
+    "data_gaps": [
+      "No information on founders or their backgrounds.",
+      "Lack of details on market size and specific AI applications."
+    ]
+  },
+  "https://github.com/flowglad/flowglad": {
+    "name": "Flowglad",
+    "website": "https://github.com/flowglad/flowglad",
+    "one_liner": "An open-source payment processor that simplifies online transactions.",
+    "team": {
+      "summary": "Not publicly available.",
+      "technical_depth": 3,
+      "prior_exit": false,
+      "founder_names": [
+        "Unknown"
+      ],
+      "data_quality": "low"
+    },
+    "product": {
+      "summary": "Flowglad provides a streamlined way to process payments online without the need for webhooks.",
+      "category": "B2B SaaS",
+      "workflow_automated": "Payment processing previously handled by manual methods or complex integrations.",
+      "ai_role": "Not specified in the provided data."
+    },
+    "market": {
+      "summary": "The payment processing market is evolving with a shift towards open-source solutions that reduce reliance on traditional payment gateways. This trend is driven by the need for lower fees and greater flexibility in payment systems.",
+      "tam_estimate": "Unknown",
+      "incumbents": [
+        "Stripe",
+        "PayPal"
+      ],
+      "why_now": "The rise of open-source software and increasing demand for customizable payment solutions make this an opportune time for innovation."
+    },
+    "risks": [
+      "Dependence on community contributions for ongoing development and support.",
+      "Potential regulatory challenges in different markets.",
+      "Competition from established players with robust infrastructures."
+    ],
+    "score": 58,
+    "score_breakdown": {
+      "team": 10,
+      "product": 15,
+      "market": 16,
+      "moat": 10,
+      "traction": 7
+    },
+    "recommendation": "Watch",
+    "rationale": "Flowglad presents an interesting approach to payment processing, especially with its open-source model. However, the lack of identifiable founders and clear AI integration limits its immediate appeal for investment.",
+    "mind_changers": [
+      "Strong community engagement through Discord.",
+      "Backed by Y Combinator, indicating potential for growth.",
+      "Focus on simplifying payment processes could attract small to medium-sized businesses."
+    ],
+    "data_gaps": [
+      "No information on founders or their backgrounds.",
+      "Lack of details on market size and specific AI applications."
+    ]
+  },
+  "AgentMail": {
+    "name": "AgentMail",
+    "website": "https://chat.agentmail.to/",
+    "one_liner": "Email infrastructure designed for AI agents.",
+    "team": {
+      "summary": "Unknown founders and backgrounds due to lack of accessible information.",
+      "technical_depth": 0,
+      "prior_exit": false,
+      "founder_names": [
+        "Unknown"
+      ],
+      "data_quality": "low"
+    },
+    "product": {
+      "summary": "AgentMail provides email infrastructure specifically tailored for AI agents.",
+      "category": "B2B SaaS",
+      "workflow_automated": "Email management previously handled by human operators.",
+      "ai_role": "Facilitates automated email interactions for AI agents."
+    },
+    "market": {
+      "summary": "The market for AI-driven email solutions is growing as businesses seek automation. However, specific market details and competitors are not available.",
+      "tam_estimate": "Unknown",
+      "incumbents": [
+        "Unknown"
+      ],
+      "why_now": "The increasing reliance on AI for operational tasks makes this solution timely."
+    },
+    "risks": [
+      "Dependence on the reliability of email infrastructure.",
+      "Potential competition from established email service providers.",
+      "Uncertainty about regulatory compliance in AI communications."
+    ],
+    "score": 34,
+    "score_breakdown": {
+      "team": 5,
+      "product": 15,
+      "market": 10,
+      "moat": 2,
+      "traction": 2
+    },
+    "recommendation": "Pass",
+    "rationale": "The lack of accessible information on the team and market context raises concerns about the startup's viability. Additionally, the homepage failure limits the ability to assess product details and traction effectively.",
+    "mind_changers": [
+      "Strong interest in AI-driven automation.",
+      "Potential for growth in email infrastructure for AI.",
+      "Need for reliable email solutions in AI applications."
+    ],
+    "data_gaps": [
+      "No information on founders or their backgrounds.",
+      "Homepage is inaccessible, limiting product understanding.",
+      "No market size or competitor information available."
+    ]
+  },
+  "https://chat.agentmail.to/": {
+    "name": "AgentMail",
+    "website": "https://chat.agentmail.to/",
+    "one_liner": "Email infrastructure designed for AI agents.",
+    "team": {
+      "summary": "Unknown founders and backgrounds due to lack of accessible information.",
+      "technical_depth": 0,
+      "prior_exit": false,
+      "founder_names": [
+        "Unknown"
+      ],
+      "data_quality": "low"
+    },
+    "product": {
+      "summary": "AgentMail provides email infrastructure specifically tailored for AI agents.",
+      "category": "B2B SaaS",
+      "workflow_automated": "Email management previously handled by human operators.",
+      "ai_role": "Facilitates automated email interactions for AI agents."
+    },
+    "market": {
+      "summary": "The market for AI-driven email solutions is growing as businesses seek automation. However, specific market details and competitors are not available.",
+      "tam_estimate": "Unknown",
+      "incumbents": [
+        "Unknown"
+      ],
+      "why_now": "The increasing reliance on AI for operational tasks makes this solution timely."
+    },
+    "risks": [
+      "Dependence on the reliability of email infrastructure.",
+      "Potential competition from established email service providers.",
+      "Uncertainty about regulatory compliance in AI communications."
+    ],
+    "score": 34,
+    "score_breakdown": {
+      "team": 5,
+      "product": 15,
+      "market": 10,
+      "moat": 2,
+      "traction": 2
+    },
+    "recommendation": "Pass",
+    "rationale": "The lack of accessible information on the team and market context raises concerns about the startup's viability. Additionally, the homepage failure limits the ability to assess product details and traction effectively.",
+    "mind_changers": [
+      "Strong interest in AI-driven automation.",
+      "Potential for growth in email infrastructure for AI.",
+      "Need for reliable email solutions in AI applications."
+    ],
+    "data_gaps": [
+      "No information on founders or their backgrounds.",
+      "Homepage is inaccessible, limiting product understanding.",
+      "No market size or competitor information available."
+    ]
+  },
+  "Corporate Hierarchy API": {
+    "name": "SavvyIQ",
+    "website": "https://savvyiq.ai/products/entity-hierarchy",
+    "one_liner": "AI-powered API that traces corporate ownership chains to ultimate parents for compliance and risk management.",
+    "team": {
+      "summary": "Unknown",
+      "technical_depth": 3,
+      "prior_exit": false,
+      "founder_names": [
+        "Unknown"
+      ],
+      "data_quality": "low"
+    },
+    "product": {
+      "summary": "The Corporate Hierarchy API automates the tracing of corporate ownership structures, eliminating the need for manual research.",
+      "category": "B2B SaaS",
+      "workflow_automated": "Manual research of corporate ownership chains",
+      "ai_role": "Uses AI to analyze government records and web sources for accurate ownership tracing."
+    },
+    "market": {
+      "summary": "The market for compliance and risk management solutions is growing as businesses face increasing regulatory scrutiny. This API addresses a specific need for accurate ownership data in various industries.",
+      "tam_estimate": "Unknown",
+      "incumbents": [
+        "Competitor A",
+        "Competitor B"
+      ],
+      "why_now": "The rise in regulatory requirements and the need for transparency in corporate structures make this solution timely."
+    },
+    "risks": [
+      "Dependence on the accuracy of government records and web sources.",
+      "Potential competition from established compliance software providers.",
+      "Market adoption may be slow due to existing manual processes."
+    ],
+    "score": 63,
+    "score_breakdown": {
+      "team": 10,
+      "product": 15,
+      "market": 16,
+      "moat": 12,
+      "traction": 10
+    },
+    "recommendation": "Watch",
+    "rationale": "The product addresses a clear need in compliance and risk management, but the team information is lacking, which raises concerns about execution capability.",
+    "mind_changers": [
+      "Growing regulatory scrutiny in corporate governance.",
+      "Increased demand for automation in compliance processes.",
+      "Potential for strategic partnerships with compliance software vendors."
+    ],
+    "data_gaps": [
+      "No information on founders or their backgrounds."
+    ]
+  },
+  "https://savvyiq.ai/products/entity-hierarchy": {
+    "name": "SavvyIQ",
+    "website": "https://savvyiq.ai/products/entity-hierarchy",
+    "one_liner": "AI-powered API that traces corporate ownership chains to ultimate parents for compliance and risk management.",
+    "team": {
+      "summary": "Unknown",
+      "technical_depth": 3,
+      "prior_exit": false,
+      "founder_names": [
+        "Unknown"
+      ],
+      "data_quality": "low"
+    },
+    "product": {
+      "summary": "The Corporate Hierarchy API automates the tracing of corporate ownership structures, eliminating the need for manual research.",
+      "category": "B2B SaaS",
+      "workflow_automated": "Manual research of corporate ownership chains",
+      "ai_role": "Uses AI to analyze government records and web sources for accurate ownership tracing."
+    },
+    "market": {
+      "summary": "The market for compliance and risk management solutions is growing as businesses face increasing regulatory scrutiny. This API addresses a specific need for accurate ownership data in various industries.",
+      "tam_estimate": "Unknown",
+      "incumbents": [
+        "Competitor A",
+        "Competitor B"
+      ],
+      "why_now": "The rise in regulatory requirements and the need for transparency in corporate structures make this solution timely."
+    },
+    "risks": [
+      "Dependence on the accuracy of government records and web sources.",
+      "Potential competition from established compliance software providers.",
+      "Market adoption may be slow due to existing manual processes."
+    ],
+    "score": 63,
+    "score_breakdown": {
+      "team": 10,
+      "product": 15,
+      "market": 16,
+      "moat": 12,
+      "traction": 10
+    },
+    "recommendation": "Watch",
+    "rationale": "The product addresses a clear need in compliance and risk management, but the team information is lacking, which raises concerns about execution capability.",
+    "mind_changers": [
+      "Growing regulatory scrutiny in corporate governance.",
+      "Increased demand for automation in compliance processes.",
+      "Potential for strategic partnerships with compliance software vendors."
+    ],
+    "data_gaps": [
+      "No information on founders or their backgrounds."
+    ]
+  },
+  "X402": {
+    "name": "X402",
+    "website": "https://www.x402.org/",
+    "one_liner": "X402 is an open standard for internet-native payments that enables seamless transactions between clients and servers.",
+    "team": {
+      "summary": "Unknown founders with no publicly available information on their backgrounds.",
+      "technical_depth": 0,
+      "prior_exit": false,
+      "founder_names": [
+        "Unknown"
+      ],
+      "data_quality": "low"
+    },
+    "product": {
+      "summary": "X402 allows for agentic payments on the internet by integrating payment requirements directly into HTTP requests.",
+      "category": "B2B SaaS",
+      "workflow_automated": "Manual payment processing and form filling.",
+      "ai_role": "Not applicable as it focuses on internet-native payment standards."
+    },
+    "market": {
+      "summary": "The market for internet payments is evolving towards more automated and agentic solutions, with a need for standards that simplify transactions. Current systems are often cumbersome and not suited for programmatic interactions.",
+      "tam_estimate": "Unknown",
+      "incumbents": [
+        "Traditional payment processors",
+        "Legacy payment systems"
+      ],
+      "why_now": "The rise of AI and the need for seamless, automated transactions make this an opportune time for a new standard."
+    },
+    "risks": [
+      "Adoption of the standard by developers and businesses.",
+      "Competition from established payment processors.",
+      "Regulatory challenges in different markets."
+    ],
+    "score": 48,
+    "score_breakdown": {
+      "team": 5,
+      "product": 15,
+      "market": 16,
+      "moat": 6,
+      "traction": 6
+    },
+    "recommendation": "Watch",
+    "rationale": "X402 presents an innovative approach to internet payments, but lacks information on the founding team and market traction. Monitoring its adoption and development will be important.",
+    "mind_changers": [
+      "Potential for widespread adoption if integrated into popular platforms.",
+      "Unique approach to solving payment issues on the internet.",
+      "Growing interest in decentralized and agentic payment solutions."
+    ],
+    "data_gaps": [
+      "No information on founders or their backgrounds.",
+      "Lack of clear market size or TAM data."
+    ]
+  },
+  "https://www.x402.org/": {
+    "name": "X402",
+    "website": "https://www.x402.org/",
+    "one_liner": "X402 is an open standard for internet-native payments that enables seamless transactions between clients and servers.",
+    "team": {
+      "summary": "Unknown founders with no publicly available information on their backgrounds.",
+      "technical_depth": 0,
+      "prior_exit": false,
+      "founder_names": [
+        "Unknown"
+      ],
+      "data_quality": "low"
+    },
+    "product": {
+      "summary": "X402 allows for agentic payments on the internet by integrating payment requirements directly into HTTP requests.",
+      "category": "B2B SaaS",
+      "workflow_automated": "Manual payment processing and form filling.",
+      "ai_role": "Not applicable as it focuses on internet-native payment standards."
+    },
+    "market": {
+      "summary": "The market for internet payments is evolving towards more automated and agentic solutions, with a need for standards that simplify transactions. Current systems are often cumbersome and not suited for programmatic interactions.",
+      "tam_estimate": "Unknown",
+      "incumbents": [
+        "Traditional payment processors",
+        "Legacy payment systems"
+      ],
+      "why_now": "The rise of AI and the need for seamless, automated transactions make this an opportune time for a new standard."
+    },
+    "risks": [
+      "Adoption of the standard by developers and businesses.",
+      "Competition from established payment processors.",
+      "Regulatory challenges in different markets."
+    ],
+    "score": 48,
+    "score_breakdown": {
+      "team": 5,
+      "product": 15,
+      "market": 16,
+      "moat": 6,
+      "traction": 6
+    },
+    "recommendation": "Watch",
+    "rationale": "X402 presents an innovative approach to internet payments, but lacks information on the founding team and market traction. Monitoring its adoption and development will be important.",
+    "mind_changers": [
+      "Potential for widespread adoption if integrated into popular platforms.",
+      "Unique approach to solving payment issues on the internet.",
+      "Growing interest in decentralized and agentic payment solutions."
+    ],
+    "data_gaps": [
+      "No information on founders or their backgrounds.",
+      "Lack of clear market size or TAM data."
+    ]
+  },
+  "BlitzGraph": {
+    "name": "BlitzGraph",
+    "website": "https://blitzgraph.com",
+    "one_liner": "BlitzGraph is an AI-native backend that allows agents to model reality in graphs and compose typed JSON queries programmatically.",
+    "team": {
+      "summary": "Unknown founders with no publicly available background information.",
+      "technical_depth": 3,
+      "prior_exit": false,
+      "founder_names": [
+        "Unknown"
+      ],
+      "data_quality": "low"
+    },
+    "product": {
+      "summary": "BlitzGraph enables users to create a backend that models data as graphs instead of traditional tables, allowing for complex relationships and queries.",
+      "category": "B2B SaaS",
+      "workflow_automated": "The process of backend development and data modeling traditionally done by developers.",
+      "ai_role": "LLMs are used to enable agents to compose typed JSON queries programmatically without SQL."
+    },
+    "market": {
+      "summary": "The market for backend solutions is evolving with the rise of AI, where traditional databases are being replaced by more flexible graph-based models. BlitzGraph positions itself as a modern alternative to legacy systems.",
+      "tam_estimate": "Unknown",
+      "incumbents": [
+        "Traditional SQL Databases",
+        "NoSQL Databases"
+      ],
+      "why_now": "The increasing complexity of data relationships and the need for more intuitive data modeling tools make AI-native solutions like BlitzGraph timely."
+    },
+    "risks": [
+      "Dependence on the adoption of LLMs for backend development.",
+      "Competition from established database solutions.",
+      "Potential challenges in user education and onboarding."
+    ],
+    "score": 66,
+    "score_breakdown": {
+      "team": 10,
+      "product": 15,
+      "market": 16,
+      "moat": 12,
+      "traction": 13
+    },
+    "recommendation": "Watch",
+    "rationale": "BlitzGraph presents an innovative approach to backend development that leverages AI, but lacks detailed founder information and market validation. Monitoring its progress could reveal potential.",
+    "mind_changers": [
+      "The shift from traditional databases to graph-based models.",
+      "The integration of LLMs in backend development.",
+      "The potential for significant efficiency improvements in data handling."
+    ],
+    "data_gaps": [
+      "No information on founders or their backgrounds.",
+      "Lack of clear market size or TAM estimate."
+    ]
+  },
+  "https://blitzgraph.com": {
+    "name": "BlitzGraph",
+    "website": "https://blitzgraph.com",
+    "one_liner": "BlitzGraph is an AI-native backend that allows agents to model reality in graphs and compose typed JSON queries programmatically.",
+    "team": {
+      "summary": "Unknown founders with no publicly available background information.",
+      "technical_depth": 3,
+      "prior_exit": false,
+      "founder_names": [
+        "Unknown"
+      ],
+      "data_quality": "low"
+    },
+    "product": {
+      "summary": "BlitzGraph enables users to create a backend that models data as graphs instead of traditional tables, allowing for complex relationships and queries.",
+      "category": "B2B SaaS",
+      "workflow_automated": "The process of backend development and data modeling traditionally done by developers.",
+      "ai_role": "LLMs are used to enable agents to compose typed JSON queries programmatically without SQL."
+    },
+    "market": {
+      "summary": "The market for backend solutions is evolving with the rise of AI, where traditional databases are being replaced by more flexible graph-based models. BlitzGraph positions itself as a modern alternative to legacy systems.",
+      "tam_estimate": "Unknown",
+      "incumbents": [
+        "Traditional SQL Databases",
+        "NoSQL Databases"
+      ],
+      "why_now": "The increasing complexity of data relationships and the need for more intuitive data modeling tools make AI-native solutions like BlitzGraph timely."
+    },
+    "risks": [
+      "Dependence on the adoption of LLMs for backend development.",
+      "Competition from established database solutions.",
+      "Potential challenges in user education and onboarding."
+    ],
+    "score": 66,
+    "score_breakdown": {
+      "team": 10,
+      "product": 15,
+      "market": 16,
+      "moat": 12,
+      "traction": 13
+    },
+    "recommendation": "Watch",
+    "rationale": "BlitzGraph presents an innovative approach to backend development that leverages AI, but lacks detailed founder information and market validation. Monitoring its progress could reveal potential.",
+    "mind_changers": [
+      "The shift from traditional databases to graph-based models.",
+      "The integration of LLMs in backend development.",
+      "The potential for significant efficiency improvements in data handling."
+    ],
+    "data_gaps": [
+      "No information on founders or their backgrounds.",
+      "Lack of clear market size or TAM estimate."
+    ]
+  }
+}

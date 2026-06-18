@@ -1,0 +1,57 @@
+[
+  {
+    "name": "We built an open source, zero webhooks payment processor",
+    "url": "https://github.com/flowglad/flowglad",
+    "hn_url": "https://news.ycombinator.com/item?id=46048252",
+    "hn_points": 405,
+    "hn_comments": 223,
+    "hn_author": "agreeahmed",
+    "posted_at": "2025-11-25T17:33:50Z",
+    "description": "We built an open source, zero webhooks payment processor",
+    "url_type": "github"
+  },
+  {
+    "name": "AgentMail",
+    "url": "https://chat.agentmail.to/",
+    "hn_url": "https://news.ycombinator.com/item?id=44745820",
+    "hn_points": 121,
+    "hn_comments": 70,
+    "hn_author": "Haakam21",
+    "posted_at": "2025-07-31T14:08:33Z",
+    "description": "AgentMail \u2013 Email infra for AI agents",
+    "url_type": "homepage"
+  },
+  {
+    "name": "Corporate Hierarchy API",
+    "url": "https://savvyiq.ai/products/entity-hierarchy",
+    "hn_url": "https://news.ycombinator.com/item?id=45671087",
+    "hn_points": 17,
+    "hn_comments": 10,
+    "hn_author": "mfrye0",
+    "posted_at": "2025-10-22T15:57:14Z",
+    "description": "Corporate Hierarchy API \u2013 Map the corporate family tree",
+    "url_type": "homepage"
+  },
+  {
+    "name": "X402",
+    "url": "https://www.x402.org/",
+    "hn_url": "https://news.ycombinator.com/item?id=43908129",
+    "hn_points": 16,
+    "hn_comments": 6,
+    "hn_author": "__erik",
+    "posted_at": "2025-05-06T18:24:51Z",
+    "description": "X402 \u2013 an open standard for internet native payments",
+    "url_type": "homepage"
+  },
+  {
+    "name": "BlitzGraph",
+    "url": "https://blitzgraph.com",
+    "hn_url": "https://news.ycombinator.com/item?id=48557002",
+    "hn_points": 14,
+    "hn_comments": 7,
+    "hn_author": "lveillard",
+    "posted_at": "2026-06-16T15:41:02Z",
+    "description": "BlitzGraph \u2013 Supabase for graphs, built for LLM agents",
+    "url_type": "homepage"
+  }
+]
